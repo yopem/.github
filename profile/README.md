@@ -1,1 +1,1 @@
-Yandi Open Source Project is exclusively maintained.
+Yandi open-source projects exclusively maintained.
