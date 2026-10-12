@@ -1,1 +1,1 @@
-Yandi open-source projects exclusively maintained.
+ Yandi Open-source Projects for Every Mind
